@@ -2,7 +2,7 @@
 
 /*------------------------------------------------------------------*/
 /*	Add a Category Taxonomy to default WooCommerce Coupons post_type
-/*  Usage: just add to functions.php in your active theme
+/*	Usage: just add to functions.php in your active theme
 /*------------------------------------------------------------------*/
 
 // Hook into the init action and call create_coupon_taxonomies when it fires
